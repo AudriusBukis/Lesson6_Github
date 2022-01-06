@@ -14,8 +14,10 @@ namespace sestaPaskaita
             
             double r = 6371;
             earthArea = 4 * Math.PI * Math.Pow(r, 2);
-            Console.WriteLine($"Sphere surface area = {earthArea}");
+            Console.WriteLine($"Earth surface area = {earthArea}");
            
+            earthVolume = 4/3*Math.PI*Math.Pow(r, 3);
+            Console.WriteLine($"Earth volume: {earthVolume}");
 
         }
     }
