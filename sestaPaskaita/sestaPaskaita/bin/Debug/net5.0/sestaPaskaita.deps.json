@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sestaPaskaita/1.0.0": {
+        "runtime": {
+          "sestaPaskaita.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sestaPaskaita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

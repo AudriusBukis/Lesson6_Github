@@ -1,0 +1,16 @@
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\bin\Debug\net5.0\sestaPaskaita.exe
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\bin\Debug\net5.0\sestaPaskaita.deps.json
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\bin\Debug\net5.0\sestaPaskaita.runtimeconfig.json
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\bin\Debug\net5.0\sestaPaskaita.runtimeconfig.dev.json
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\bin\Debug\net5.0\sestaPaskaita.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\bin\Debug\net5.0\ref\sestaPaskaita.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\bin\Debug\net5.0\sestaPaskaita.pdb
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\obj\Debug\net5.0\sestaPaskaita.csproj.AssemblyReference.cache
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\obj\Debug\net5.0\sestaPaskaita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\obj\Debug\net5.0\sestaPaskaita.AssemblyInfoInputs.cache
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\obj\Debug\net5.0\sestaPaskaita.AssemblyInfo.cs
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\obj\Debug\net5.0\sestaPaskaita.csproj.CoreCompileInputs.cache
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\obj\Debug\net5.0\sestaPaskaita.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\obj\Debug\net5.0\ref\sestaPaskaita.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\obj\Debug\net5.0\sestaPaskaita.pdb
+C:\Users\audri\Documents\Code_Academy_mokymai\Bendras_darbas\paskaitaSesta\sestaPaskaita\sestaPaskaita\obj\Debug\net5.0\sestaPaskaita.genruntimeconfig.cache
