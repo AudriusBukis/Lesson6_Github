@@ -6,7 +6,17 @@ namespace sestaPaskaita
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Work in gitHub!");
+            double earthArea;
+            double earthVolume = 0;
+            double triangleLine = 0;
+
+            
+            double r = 6371;
+            earthArea = 4 * Math.PI * Math.Pow(r, 2);
+            Console.WriteLine($"Sphere surface area = {earthArea}");
+           
+
         }
     }
 }
